@@ -1,5 +1,21 @@
-.App {
-  text-align: center;
+.app {
+	margin: 0 auto;
+	display: grid;
+	width: 90%;
+
+	grid-template-areas:
+	"Shop Work";
+	grid-template-columns: 1fr 1fr;
+
+}
+
+.img{
+	width:100px;
+	height:100px;
+}
+
+.App2 {
+  text-align: left;
 }
 
 .App-logo {

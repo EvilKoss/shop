@@ -1,0 +1,13 @@
+.Text {
+  text-align: right ;
+}
+
+.img{
+	width:100px;
+	height:100px;
+}
+
+.Work {
+	grid-area: Work;
+	background-color: green;
+}
